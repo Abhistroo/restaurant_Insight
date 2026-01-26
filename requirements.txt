@@ -1,0 +1,8 @@
+streamlit
+pandas
+pytesseract
+pillow
+pdfplumber
+qrcode
+matplotlib
+numpy
