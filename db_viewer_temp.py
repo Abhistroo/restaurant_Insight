@@ -24,6 +24,7 @@ table = st.sidebar.selectbox(
         "restaurant_profile",
         "menu",
         "feedback",
+        "feedback_items",
         "insights"
     ]
 )
